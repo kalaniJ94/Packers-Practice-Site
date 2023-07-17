@@ -1,0 +1,15 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+background-color: rgb(181, 155, 8);
+
+}
+header{
+    position: absolute  ;
+}
+section{
+    position: relative;
+    
+}
